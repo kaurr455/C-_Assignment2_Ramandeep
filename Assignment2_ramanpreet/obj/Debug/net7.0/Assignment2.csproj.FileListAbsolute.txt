@@ -1,0 +1,14 @@
+C:\Users\prash\Assignment2\bin\Debug\net7.0\Assignment2.exe
+C:\Users\prash\Assignment2\bin\Debug\net7.0\Assignment2.deps.json
+C:\Users\prash\Assignment2\bin\Debug\net7.0\Assignment2.runtimeconfig.json
+C:\Users\prash\Assignment2\bin\Debug\net7.0\Assignment2.dll
+C:\Users\prash\Assignment2\bin\Debug\net7.0\Assignment2.pdb
+C:\Users\prash\Assignment2\obj\Debug\net7.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prash\Assignment2\obj\Debug\net7.0\Assignment2.AssemblyInfoInputs.cache
+C:\Users\prash\Assignment2\obj\Debug\net7.0\Assignment2.AssemblyInfo.cs
+C:\Users\prash\Assignment2\obj\Debug\net7.0\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\prash\Assignment2\obj\Debug\net7.0\Assignment2.dll
+C:\Users\prash\Assignment2\obj\Debug\net7.0\refint\Assignment2.dll
+C:\Users\prash\Assignment2\obj\Debug\net7.0\Assignment2.pdb
+C:\Users\prash\Assignment2\obj\Debug\net7.0\Assignment2.genruntimeconfig.cache
+C:\Users\prash\Assignment2\obj\Debug\net7.0\ref\Assignment2.dll
